@@ -53,9 +53,6 @@ mini-siem/
 ├── Dockerfile              # Сборка контейнера API
 ├── requirements.txt        # Основные зависимости Python
 ├── requirements-dev.txt    # Зависимости для тестирования
-├── tests/
-│   ├── conftest.py         # Настройка тестовой БД
-│   └── test_api.py         # Тесты API
 └── README.md
 ```
 
