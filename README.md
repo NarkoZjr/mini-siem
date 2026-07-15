@@ -29,7 +29,6 @@
 - Psycopg
 - PostgreSQL 16
 - Docker и Docker Compose
-- Pytest
 
 ## Схема работы
 
